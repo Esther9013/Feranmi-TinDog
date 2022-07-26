@@ -112,9 +112,12 @@ cursor: pointer;
 }
 
 .imagetitle{
-  width: 20%;
+  width: 80%;
   transform: rotate(25deg);
-  margin-left: 96px;
+}
+
+.row{
+  display: flex;
 }
 
 .feature-title{
@@ -219,7 +222,6 @@ cursor: pointer;
 #big-heading{
   font-weight: bold;
   font-size: 30px;
-  width: ;
 }
 
 #footer{
